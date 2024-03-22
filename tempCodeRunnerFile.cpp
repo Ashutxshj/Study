@@ -1,2 +1,0 @@
-
-        obj << "Hello Sir\n";
